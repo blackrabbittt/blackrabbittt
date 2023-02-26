@@ -2,6 +2,7 @@
 
 <img align="left" src="./cloud-cloud-strife.gif" alt="ff7"> 
 <h1 align="right">🐰 Web designer | Front-end Dev 💻</h1>
+<h2 align="center">⌨ Lenguajes que manejo 🖱</h2>
 <!--
 **blackrabbittt/blackrabbittt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
