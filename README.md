@@ -5,6 +5,7 @@
 <h2 align="center">⌨ Lenguajes que manejo 🖱</h2>
 <div align="center">
 <img src="./html-css.png" width="50px" alt="html-css"> 
+<img src="./css.png" width="50px" alt="css"> 
 <img src="./js.png" width="50px" alt="javascript"> 
 <img src="./bootstrap.png" width="50px" alt="bootstrap"> 
 <img src="./csharp.png" width="50px" alt="csharp"> 
