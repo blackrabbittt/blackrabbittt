@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="./cloud-cloud-strife.gif" alt="ff7"> 
+<h1>🐰 Web designer | Front-end Dev 💻</h1>
 <!--
 **blackrabbittt/blackrabbittt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
