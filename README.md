@@ -4,10 +4,10 @@
 <h1 align="right">🐰 Web designer | Front-end Dev 💻</h1>
 <h2 align="center">⌨ Lenguajes que manejo 🖱</h2>
 <div style="displey:flex, flex-direction:row;">
-<img src="./html-css.png" alt="html-css"> 
-<img src="./js.png" alt="javascript"> 
-<img src="./bootstrap.png" alt="bootstrap"> 
-<img src="./csharp.png" alt="csharp"> 
+<img src="./html-css.png" width="50px" alt="html-css"> 
+<img src="./js.png" width="50px" alt="javascript"> 
+<img src="./bootstrap.png" width="50px" alt="bootstrap"> 
+<img src="./csharp.png" width="50px" alt="csharp"> 
 </div>
 <!--
 **blackrabbittt/blackrabbittt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
